@@ -1,0 +1,19 @@
+@media (max-width: 576px) {
+  .w-xs-100 {
+    width: 100%;
+  }
+
+  .ml-sm-1 {
+    margin-left: initial;
+  }
+}
+
+@media (min-width: 576px) {
+  .ml-sm-1 {
+    margin-left: 10px;
+  }
+}
+
+.pr-2 {
+  padding-right: 20px;
+}

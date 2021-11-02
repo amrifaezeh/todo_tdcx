@@ -1,0 +1,8 @@
+.default {
+  color: #537178;
+}
+
+.completed {
+  color: #5285ec;
+  text-decoration: line-through;
+}
