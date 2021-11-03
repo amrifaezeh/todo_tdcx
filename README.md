@@ -24,10 +24,5 @@ npm i
 ```
 
 ```shell
-<<<<<<< HEAD
 npm run dev
-=======
-npm ru dev
->>>>>>> 4e31d1051735e625a11797b8b30198e47774ac9b
-
 ```
