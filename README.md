@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Simple Todo
 
 a simple todo app using TDCX api
